@@ -17,4 +17,4 @@ A simple Flask system to test SSRF redirect vulnerabilities in web applications.
 
 ## Credits
 - @sushilphuyal; https://github.com/sushilphuyal
-- @basant0x01; https://github.com/sushilphuyal
+- @basant0x01; https://github.com/basant0x01
